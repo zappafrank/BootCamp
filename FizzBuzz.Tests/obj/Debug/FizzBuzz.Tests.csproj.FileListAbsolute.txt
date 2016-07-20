@@ -1,0 +1,6 @@
+C:\devl\workspaces\Bootcamp\Labs\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\devl\workspaces\Bootcamp\Labs\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\devl\workspaces\Bootcamp\Labs\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\devl\workspaces\Bootcamp\Labs\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\devl\workspaces\Bootcamp\Labs\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\devl\workspaces\Bootcamp\Labs\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
